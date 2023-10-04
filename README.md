@@ -8,7 +8,7 @@
 
 # Buy!
 
-Buy this wonderful repository with my API key of OpenAI! After some time, a payment link for this would be given below, and just pay 100000 Rs. or 1201.25 Dollars and just get this repository!
+Buy this repository! After some time, a payment link for this would be given below, and just pay 100000 Rs. or 1201.25 Dollars and just get this repository!
 
 
 # License
