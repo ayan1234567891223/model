@@ -5,7 +5,7 @@ import OpenAI from "openai";
 import { downloadImage } from "./download.js";
 
 const app = express();
-const apiKey = "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";
+const apiKey = YOUR_OPENAI_API_KEY;
 const apiUrl = "https://api.openai.com/v1/images/generations";
 
 const openai = new OpenAI({ apiKey: apiKey });
